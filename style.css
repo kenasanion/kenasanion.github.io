@@ -1,6 +1,5 @@
 body {
     background-color: coral;
-    background: url('images/mountains.jpg') no-repeat;
     background-size: 100%;
     padding: 20px;
     position: relative;
@@ -17,6 +16,7 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: -2.5em;
 }
 
 .seconds-container {
@@ -29,5 +29,4 @@ h1 {
 
 .image-love-you {
     width: 330px;
-    height: 300px;
 }

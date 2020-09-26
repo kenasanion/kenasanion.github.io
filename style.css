@@ -1,0 +1,33 @@
+body {
+    background-color: coral;
+    background: url('images/mountains.jpg') no-repeat;
+    background-size: 100%;
+    padding: 20px;
+    position: relative;
+}
+
+h1 {
+    font-family: bc-alphapipe,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.seconds-wrapper {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.seconds-container {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    text-shadow: #00000040 0px 0px 15px;
+}
+
+.image-love-you {
+    width: 330px;
+    height: 300px;
+}
